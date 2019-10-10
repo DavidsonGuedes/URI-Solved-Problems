@@ -1,8 +1,4 @@
-# -*- coding: utf-8 -*-
+n1 = int(input())
+n2 = int(input())
 
-# -*- coding: utf-8 -*-
-
-n1 = int(raw_input())
-n2 = int(raw_input())
-
-print 'X = ' + str(n1+n2)
+print ('X = ' + str(n1+n2))
